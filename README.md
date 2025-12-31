@@ -25,8 +25,8 @@ The agent is designed as a **Stateful Graph**:
 
 ## 📸 Screenshots
 ### User Interface
-![Streamlit UI](![WhatsApp Image 2025-12-31 at 9 04 46 PM](https://github.com/user-attachments/assets/ffd8e395-0e9f-4f81-93bc-af7785b24f69))
+!(![WhatsApp Image 2025-12-31 at 9 04 46 PM](https://github.com/user-attachments/assets/ffd8e395-0e9f-4f81-93bc-af7785b24f69))
 
 ### Agent Logic (LangGraph)
-![Agent Graph](![WhatsApp Image 2025-12-31 at 9 13 53 PM](https://github.com/user-attachments/assets/cecd905d-816a-4bfd-841a-a20e76e22cdb))
+!(![WhatsApp Image 2025-12-31 at 9 13 53 PM](https://github.com/user-attachments/assets/cecd905d-816a-4bfd-841a-a20e76e22cdb))
 
