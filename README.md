@@ -17,7 +17,7 @@ The agent is designed as a **Stateful Graph**:
 
 ## 🛠️ Tech Stack
 - **Framework**: LangChain & LangGraph
-- **LLM**: Google Gemini 1.5 Flash
+- **LLM**: Google Gemini-2.5-Flash
 - **Search API**: Tavily AI
 - **Data Source**: Yahoo Finance (yfinance)
 - **Monitoring**: Langfuse
@@ -29,5 +29,6 @@ The agent is designed as a **Stateful Graph**:
 
 ### Agent Logic (LangGraph)
 ![WhatsApp Image 2025-12-31 at 9 13 53 PM](https://github.com/user-attachments/assets/cecd905d-816a-4bfd-841a-a20e76e22cdb)
+
 
 
