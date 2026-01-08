@@ -1,4 +1,4 @@
-# 📈 AI Financial Analyst Agent
+#   Financial Analyst Agent
 
 An intelligent autonomous agent that provides real-time stock market analysis and global financial news summaries. Built using **LangGraph** for orchestration and **Gemini 2.5- Flash** as the brain.
 ### Agent Logic (LangGraph)
@@ -27,6 +27,7 @@ The agent is designed as a **Stateful Graph**:
 ## 📸 Screenshots
 ### User Interface
 ![WhatsApp Image 2025-12-31 at 9 04 46 PM](https://github.com/user-attachments/assets/ffd8e395-0e9f-4f81-93bc-af7785b24f69)
+
 
 
 
