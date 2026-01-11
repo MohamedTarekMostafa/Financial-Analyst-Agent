@@ -1,7 +1,0 @@
-yfinance
-langchain
-typing
-langgraph
-tools
-streamlit
-langfuse
