@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+streamlit
+langchain-core
+langchain_google_genai
+langgraph
+langfuse
+yfinance
+python-dotenv
+requests
+langchain_tavily
+typing
